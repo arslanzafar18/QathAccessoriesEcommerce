@@ -2,7 +2,7 @@ From python:3
 Run pip install django==3.2
 Run pip install asgiref==3.5.0
 
-Run pip install Pillow==9.0.1
+Run pip install Pillow
 Run pip install pytz==2021.3
 Run pip install sqlparse==0.4.2
 
